@@ -1,0 +1,14 @@
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\bin\Debug\Task9.exe.config
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\bin\Debug\Task9.exe
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\bin\Debug\Task9.pdb
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\MainWindow.g.cs
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\App.g.cs
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9_MarkupCompile.cache
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9_MarkupCompile.lref
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\MainWindow.baml
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9.g.resources
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9.Properties.Resources.resources
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9.csproj.GenerateResource.Cache
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9.exe
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\Task9_Reflection\Task9_Reflection\Task9\obj\Debug\Task9.pdb
